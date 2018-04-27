@@ -74,5 +74,5 @@ for i in range(len(X)):
 df['prediction'] = np.array(predictions)
 
 later I will upload a readme.doc
-maybe a month later（smile^_^）
+maybe a month later（smile^_^） 2018 4 27
 
